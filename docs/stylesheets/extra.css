@@ -1,0 +1,75 @@
+.md-header,
+.md-tabs {
+  background-color: #71427ea0 !important;
+}
+
+/* Increase logo size in header */
+.md-header__button.md-logo img {
+  height: 48px;      /* default ~24px */
+  width: auto;
+}
+
+/* ===== Pigax-style clickable cards ===== */
+
+.clickable-cards {
+  gap: 1rem;
+}
+
+/* Base card */
+.clickable-card {
+  display: block;
+  padding: 1.2rem 1.3rem;
+  border-radius: 0.9rem;
+  text-decoration: none;
+  color: inherit;
+
+  background: linear-gradient(
+    180deg,
+    rgba(193, 153, 208, 0.9),
+    #aa78d9e6
+  );
+
+  border: 1px solid rgba(96, 52, 110, 0.35);
+
+  transition:
+    transform 140ms ease,
+    box-shadow 140ms ease,
+    border-color 140ms ease,
+    background 140ms ease;
+}
+
+/* Title */
+.clickable-card h3 {
+  margin: 0 0 0.4rem 0;
+  font-weight: 600;
+  color: rgb(114, 55, 123);
+}
+
+/* Description */
+.clickable-card p {
+  margin: 0;
+  color: rgb(35, 34, 35);
+  opacity: 0.9;
+}
+
+/* Hover state */
+.clickable-card:hover {
+  transform: translateY(-3px);
+
+  background: linear-gradient(
+    180deg,
+    rgb(192, 179, 199),
+    rgb(154, 133, 158)
+  );
+
+  border-color: rgb(188, 104, 237);
+
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
+}
+
+/* Keyboard focus */
+.clickable-card:focus,
+.clickable-card:focus-visible {
+  outline: 3px solid rgb(97, 12, 118);
+  outline-offset: 4px;
+}

@@ -1,0 +1,27 @@
+site_name: Pigax
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - stylesheets/extra.css
+
+theme: 
+  name: material
+  logo: assets/pigaxlogo.png
+  
+  features:
+    - navigation.sections
+    - navigation.tabs
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tab.link
+    - content.code.annotation
+    - content.code.copy
+
+  language: en
+ 
+
