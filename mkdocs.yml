@@ -4,6 +4,10 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+validation:
+  links:
+    absolute_links: relative_to_docs
+
 extra_css:
   - stylesheets/extra.css
 
