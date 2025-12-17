@@ -9,7 +9,7 @@ extra_css:
 
 theme: 
   name: material
-  logo: /assets/pigaxlogo.png
+  logo: assets/pigaxlogo.png
   
   features:
     - navigation.sections
