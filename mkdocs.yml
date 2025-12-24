@@ -16,6 +16,7 @@ theme:
   logo: assets/pigaxlogo.png
   
   features:
+    - navigation.instant
     - navigation.sections
     - navigation.tabs
     - toc.integrate
