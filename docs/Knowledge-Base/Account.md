@@ -9,7 +9,7 @@ After successful login to your pigax farm account
 **Step 1**. Click “Settings" on the menu section
 
 **Step 2**. Select “My Settings"
-![First image](/assets/accounts/image11.jpg)
+![First image](/assets/accounts/image111.webp)
 
 **Step 3**. Select the "Personal Information" tab on the User Settings
 ![Second image](/assets/accounts/image2.png)
