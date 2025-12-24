@@ -9,7 +9,7 @@ After successful login to your pigax farm account
 **Step 1**. Click “Settings" on the menu section
 
 **Step 2**. Select “My Settings"
-![First image](/assets/accounts/image1.png)
+![First image](/assets/accounts/image11.png)
 
 **Step 3**. Select the "Personal Information" tab on the User Settings
 ![Second image](/assets/accounts/image2.png)
@@ -29,7 +29,7 @@ After successful login to your pigax farm account
 **Step 1**. Click “Settings" on the menu section
 
 **Step 2**. Select “My Settings"
-![Fourth image](/assets/accounts/image4.png)
+![Fourth image](/assets/accounts/image44.png)
 
 **Step 3**. Select the "Company Information" tab on the User Settings
 
