@@ -12,12 +12,12 @@ Learn everything you need to get started with your SAAS.
 
   <a class="clickable-card" href="Knowledge-Base/Account/">
     <h3>📘 Account</h3>
-    <p>Learn evverything you need to know about your Account.</p>
+    <p>Learn everything you need to know about your Account.</p>
   </a>
 
   <a class="clickable-card" href="Knowledge-Base/Questions/">
     <h3>📘 Questions</h3>
-    <p>Folllow up with frequently asked questions.</p>
+    <p>Follow up with frequently asked questions.</p>
   </a>
 
   <a class="clickable-card" href="Knowledge-Base/Pricing/">
